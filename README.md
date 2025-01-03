@@ -8,7 +8,8 @@
 - `Docker, Docker Compose`
 - `PostgreSQL`
 - `Redis`
-- `Grafana`
+- `Grafana, Prometheus`
+- `Loki`
 - `Testify, GoMock`
 
 ### Структура проекта
